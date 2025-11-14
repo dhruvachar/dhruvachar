@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dhruv Achar  
+#  Hi, I'm Dhruv Achar  
 
 🚀 **Data Analyst | Machine Learning Engineer | Sports Analytics Enthusiast**  
 I build **intelligent dashboards**, **predictive models**, and **data-driven apps** that turn raw data into powerful insights.  
@@ -6,7 +6,7 @@ Passionate about **finance, sports,and automation** — with hands-on experience
 
 ---
 
-## 🔥 Featured Projects  
+##  Featured Projects  
 
 ### 📈 [Advanced Stock Analytics Dashboard](https://github.com/dhruvachar/advanced-stock-analytics)
 > Real-time stock market dashboard with technical indicators, price alerts, volatility metrics, and portfolio tracking — powered by Streamlit & Plotly.
@@ -15,13 +15,13 @@ Passionate about **finance, sports,and automation** — with hands-on experience
 *<img width="1920" height="932" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/1ab11ba0-30ce-4dba-9597-a33de97af975" />*
 
 
-### ⚽ [Fantasy Premier League Shiny Dashboard](https://github.com/dhruvachar/fpl-shiny-dashboard)
+###  [Fantasy Premier League Shiny Dashboard](https://github.com/dhruvachar/fpl-shiny-dashboard)
 > Interactive R Shiny app for FPL data visualization, best XI recommendations, player comparisons, and predictive points modeling.
 
 
 *<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/0a666172-e802-4b8e-98c6-b78508c9786a" />*
 
-### 💰 [AI-Powered Personal Finance Tracker](https://github.com/dhruvachar/ai-finance-dashboard)
+###  [AI-Powered Personal Finance Tracker](https://github.com/dhruvachar/ai-finance-dashboard)
 > Sentiment analysis, budget tracking, savings goals, and predictive analytics — all in one sleek Streamlit dashboard.  
 
 
@@ -29,7 +29,7 @@ Passionate about **finance, sports,and automation** — with hands-on experience
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
@@ -52,18 +52,18 @@ Passionate about **finance, sports,and automation** — with hands-on experience
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 ![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvachar&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvachar&layout=compact&theme=radical)  
 
 ---
 
-## 📫 Let's Connect  
+##  Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-achar-569521221/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white)](https://github.com/dhruvachar)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruv.achar2004@gmail.com)  
 
 ---
-💡 *"Data is the new oil — I refine it into insights."*
+
