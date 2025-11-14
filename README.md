@@ -2,7 +2,7 @@
 
 🚀 **Data Analyst | Machine Learning Engineer | Sports Analytics Enthusiast**  
 I build **intelligent dashboards**, **predictive models**, and **data-driven apps** that turn raw data into powerful insights.  
-Passionate about **finance, sports, and automation** — with hands-on experience in **Python, R, SQL, and full-stack data projects**.  
+Passionate about **finance, sports,and automation** — with hands-on experience in **Python, R, SQL, and full-stack data projects**.  
 
 ---
 
