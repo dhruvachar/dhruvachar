@@ -1,6 +1,6 @@
 #  Hi, I'm Dhruv Achar  
 
-🚀 **Data Analyst | Machine Learning Engineer | Sports Analytics Enthusiast**  
+ **Data Analyst | Machine Learning Engineer | Sports Analytics Enthusiast**  
 I build **intelligent dashboards**, **predictive models**, and **data-driven apps** that turn raw data into powerful insights.  
 Passionate about **finance, sports,and automation** — with hands-on experience in **Python, R, SQL, and full-stack data projects**.  
 
@@ -8,7 +8,7 @@ Passionate about **finance, sports,and automation** — with hands-on experience
 
 ##  Featured Projects  
 
-### 📈 [Advanced Stock Analytics Dashboard](https://github.com/dhruvachar/advanced-stock-analytics)
+###  [Advanced Stock Analytics Dashboard](https://github.com/dhruvachar/advanced-stock-analytics)
 > Real-time stock market dashboard with technical indicators, price alerts, volatility metrics, and portfolio tracking — powered by Streamlit & Plotly.
 
 
